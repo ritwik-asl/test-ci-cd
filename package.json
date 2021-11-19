@@ -1,0 +1,12 @@
+{
+    "name": "health-check",
+    "version": "1.1.0",
+    "description": "To check the health of RR systems.",
+    "main": "index.js",
+    "author": "Sowvik Roy",
+    "license": "ISC",
+    "dependencies": {
+        "mocha": "^9.1.2"
+    },
+    "env": "Sandbox"
+}
